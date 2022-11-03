@@ -4,9 +4,9 @@
     "url": "https://datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/datola.es.ico",
     "slug": "datola",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1246,
     "timeMonth": 1981,
     "timeYear": 1843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   },
   {
     "name": "GA4 Cheatsheet",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.luratic.com.ico",
     "slug": "gtm-ss",
     "status": "up",
-    "uptime": "42.96%",
+    "uptime": "43.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.53%",
-    "uptimeYear": "42.96%",
+    "uptimeMonth": "52.99%",
+    "uptimeYear": "43.17%",
     "time": 2999,
     "timeDay": 1850,
     "timeWeek": 2292,
