@@ -24,27 +24,29 @@
     "url": "https://data.ga4spy.com",
     "icon": "https://icons.duckduckgo.com/ip3/data.ga4spy.com.ico",
     "slug": "ga-4-cheatsheet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 387,
-    "timeWeek": 316,
+    "timeWeek": 310,
     "timeMonth": 448,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-28": 1
+    }
   },
   {
     "name": "GA4 SPY",
     "url": "https://ga4spy.com",
     "icon": "https://icons.duckduckgo.com/ip3/ga4spy.com.ico",
     "slug": "ga-4-spy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 297,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-28": 0
+    }
   },
   {
     "name": "Luratic",
@@ -81,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.luratic.com.ico",
     "slug": "gtm-ss",
     "status": "up",
-    "uptime": "40.64%",
+    "uptime": "41.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.20%",
+    "uptimeWeek": "63.88%",
     "uptimeMonth": "48.29%",
-    "uptimeYear": "40.64%",
+    "uptimeYear": "41.46%",
     "time": 3171,
     "timeDay": 2157,
     "timeWeek": 4480,
