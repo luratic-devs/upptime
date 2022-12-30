@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://www.luratic.com/images/author/luratic.png
   name: Status
   introTitle: "**Luratic Status**"
-  introMessage: "Páxina que ofrece o estado dos servizos que temos levantados en Luratic e emprega **real-time** data do noso [Repositorio de GitHub](https://github.com/upptime/upptime). Emprega a maravillosa tecnoloxía de [**Uptime**](https://github.com/upptime/upptime)
+  introMessage: "Páxina que ofrece o estado dos servizos que temos levantados en Luratic e emprega **real-time** data do noso [Repositorio de GitHub](https://github.com/upptime/upptime). Emprega a maravillosa tecnoloxía de [**Uptime**](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /
