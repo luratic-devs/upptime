@@ -153,19 +153,19 @@
     "url": "https://n8n.luratic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.luratic.com.ico",
     "slug": "n8-n-luratic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 456,
-    "timeWeek": 432,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 444,
+    "timeDay": 484,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-01-02": 0
+      "2023-01-02": 5
     }
   }
 ]
