@@ -32,7 +32,7 @@
     "uptimeYear": "99.99%",
     "time": 498,
     "timeDay": 259,
-    "timeWeek": 277,
+    "timeWeek": 285,
     "timeMonth": 281,
     "timeYear": 498,
     "dailyMinutesDown": {
@@ -87,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.luratic.com.ico",
     "slug": "gtm-ss",
     "status": "up",
-    "uptime": "66.09%",
+    "uptime": "66.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "66.09%",
+    "uptimeYear": "66.19%",
     "time": 2081,
     "timeDay": 1136,
     "timeWeek": 964,
@@ -157,17 +157,19 @@
     "url": "https://n8n.luratic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.luratic.com.ico",
     "slug": "n8-n-luratic",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 462,
     "timeDay": 524,
     "timeWeek": 487,
     "timeMonth": 462,
     "timeYear": 462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   }
 ]
