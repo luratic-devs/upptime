@@ -24,9 +24,9 @@
     "url": "https://data.ga4spy.com",
     "icon": "https://icons.duckduckgo.com/ip3/data.ga4spy.com.ico",
     "slug": "ga-4-cheatsheet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.32%",
+    "uptimeDay": "96.27%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
@@ -36,7 +36,7 @@
     "timeMonth": 1334,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-05-28": 53,
+      "2023-05-28": 54,
       "2023-05-10": 16,
       "2023-01-12": 16
     }
@@ -46,9 +46,9 @@
     "url": "https://ga4spy.com",
     "icon": "https://icons.duckduckgo.com/ip3/ga4spy.com.ico",
     "slug": "ga-4-spy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.76%",
+    "uptimeDay": "95.75%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
