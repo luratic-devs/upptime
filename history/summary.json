@@ -86,9 +86,9 @@
     "url": "https://luratic.com",
     "icon": "https://icons.duckduckgo.com/ip3/luratic.com.ico",
     "slug": "luratic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,7 @@
     "timeMonth": 289,
     "timeYear": 285,
     "dailyMinutesDown": {
+      "2024-08-10": 0,
       "2023-10-27": 17
     }
   },
