@@ -171,9 +171,9 @@
     "url": "https://eventos.datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/eventos.datola.es.ico",
     "slug": "datolada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,6 +182,8 @@
     "timeWeek": 272,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-18": 0
+    }
   }
 ]
