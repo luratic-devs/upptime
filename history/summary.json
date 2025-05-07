@@ -11,7 +11,7 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
     "time": 3138,
-    "timeDay": 2451,
+    "timeDay": 2909,
     "timeWeek": 2404,
     "timeMonth": 3202,
     "timeYear": 3013,
@@ -34,12 +34,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 497,
     "timeDay": 240,
     "timeWeek": 259,
     "timeMonth": 538,
-    "timeYear": 432,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2025-03-29": 15,
       "2025-03-28": 23,
@@ -63,12 +63,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 385,
     "timeDay": 420,
     "timeWeek": 247,
     "timeMonth": 426,
-    "timeYear": 344,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2025-03-29": 16,
       "2025-03-28": 23,
@@ -84,9 +84,9 @@
     "url": "https://luratic.com",
     "icon": "https://icons.duckduckgo.com/ip3/luratic.com.ico",
     "slug": "luratic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,6 +96,7 @@
     "timeMonth": 333,
     "timeYear": 295,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2024-09-11": 20
     }
   },
@@ -105,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.luratic.com.ico",
     "slug": "gtm-ss",
     "status": "up",
-    "uptime": "93.51%",
+    "uptime": "93.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.97%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.09%",
     "time": 988,
     "timeDay": 1238,
     "timeWeek": 964,
     "timeMonth": 956,
-    "timeYear": 1035,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2025-04-23": 831,
       "2025-04-22": 323,
@@ -165,9 +166,9 @@
     "url": "https://eventos.datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/eventos.datola.es.ico",
     "slug": "datolada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,6 +177,8 @@
     "timeWeek": 470,
     "timeMonth": 441,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
