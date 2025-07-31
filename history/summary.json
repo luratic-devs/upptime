@@ -6,17 +6,16 @@
     "slug": "datola",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.95%",
     "time": 2863,
     "timeDay": 1984,
     "timeWeek": 2299,
-    "timeMonth": 2375,
+    "timeMonth": 2377,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2025-07-30": 13,
       "2025-07-28": 26,
       "2025-07-26": 18,
       "2025-07-22": 22,
@@ -42,7 +41,7 @@
     "time": 417,
     "timeDay": 426,
     "timeWeek": 858,
-    "timeMonth": 607,
+    "timeMonth": 598,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2025-07-15": 41,
@@ -66,7 +65,7 @@
     "time": 335,
     "timeDay": 454,
     "timeWeek": 303,
-    "timeMonth": 302,
+    "timeMonth": 299,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2025-07-24": 19,
@@ -91,7 +90,7 @@
     "time": 302,
     "timeDay": 410,
     "timeWeek": 329,
-    "timeMonth": 365,
+    "timeMonth": 360,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2025-07-25": 22,
@@ -116,7 +115,7 @@
     "time": 1010,
     "timeDay": 1297,
     "timeWeek": 1062,
-    "timeMonth": 1024,
+    "timeMonth": 1022,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2025-07-23": 54,
@@ -172,7 +171,7 @@
     "time": 498,
     "timeDay": 511,
     "timeWeek": 437,
-    "timeMonth": 449,
+    "timeMonth": 447,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2025-07-23": 28,
@@ -204,7 +203,7 @@
     "time": 403,
     "timeDay": 414,
     "timeWeek": 308,
-    "timeMonth": 410,
+    "timeMonth": 411,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2025-05-07": 18
