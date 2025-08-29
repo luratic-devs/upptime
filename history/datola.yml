@@ -1,7 +1,7 @@
 url: https://datola.es
-status: up
-code: 200
-responseTime: 2511
-lastUpdated: 2025-08-28T23:21:10.449Z
+status: down
+code: 415
+responseTime: 421
+lastUpdated: 2025-08-29T17:24:12.453Z
 startTime: 2022-09-25T11:37:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
