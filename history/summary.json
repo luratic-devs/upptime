@@ -13,7 +13,7 @@
     "time": 2442,
     "timeDay": 2408,
     "timeWeek": 1915,
-    "timeMonth": 2020,
+    "timeMonth": 2028,
     "timeYear": 2344,
     "dailyMinutesDown": {
       "2025-12-18": 23,
@@ -180,9 +180,9 @@
     "url": "https://analytics.luratic.com/gtm.js?id=GTM-5D7RV9H",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.luratic.com.ico",
     "slug": "gtm-ss",
-    "status": "up",
+    "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "97.71%",
@@ -192,6 +192,7 @@
     "timeMonth": 1205,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2025-12-22": 0,
       "2025-11-24": 47,
       "2025-08-14": 54,
       "2025-08-01": 55,
