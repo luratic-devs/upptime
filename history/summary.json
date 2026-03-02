@@ -144,10 +144,10 @@
     "url": "https://luratic.com",
     "icon": "https://icons.duckduckgo.com/ip3/luratic.com.ico",
     "slug": "luratic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "97.07%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "97.06%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "98.76%",
     "time": 388,
@@ -156,6 +156,7 @@
     "timeMonth": 442,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2026-03-02": 0,
       "2026-03-01": 16,
       "2026-02-28": 17,
       "2026-02-27": 35,
@@ -231,8 +232,7 @@
       "2025-07-25": 22,
       "2025-07-15": 21,
       "2025-07-07": 24,
-      "2025-06-29": 23,
-      "2025-05-07": 18
+      "2025-06-29": 23
     }
   },
   {
