@@ -143,10 +143,10 @@
     "url": "https://luratic.com",
     "icon": "https://icons.duckduckgo.com/ip3/luratic.com.ico",
     "slug": "luratic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "97.73%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.35%",
     "time": 396,
@@ -226,8 +226,7 @@
       "2025-11-02": 102,
       "2025-10-27": 29,
       "2025-10-26": 48,
-      "2025-10-24": 17,
-      "2025-10-21": 24
+      "2025-10-24": 17
     }
   },
   {
