@@ -94,7 +94,7 @@
     "timeDay": 308,
     "timeWeek": 340,
     "timeMonth": 334,
-    "timeYear": 538,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2026-02-03": 27,
       "2025-12-04": 26,
@@ -119,12 +119,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 371,
     "timeDay": 285,
     "timeWeek": 310,
     "timeMonth": 333,
-    "timeYear": 421,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2026-02-03": 27,
       "2025-12-04": 47,
@@ -144,13 +144,13 @@
     "url": "https://luratic.com",
     "icon": "https://icons.duckduckgo.com/ip3/luratic.com.ico",
     "slug": "luratic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "83.47%",
+    "uptimeDay": "83.45%",
     "uptimeWeek": "95.35%",
     "uptimeMonth": "96.96%",
-    "uptimeYear": "99.34%",
-    "time": 399,
+    "uptimeYear": "99.35%",
+    "time": 400,
     "timeDay": 347,
     "timeWeek": 442,
     "timeMonth": 451,
@@ -225,8 +225,7 @@
       "2025-11-16": 38,
       "2025-11-13": 25,
       "2025-11-12": 27,
-      "2025-11-11": 19,
-      "2025-11-08": 75
+      "2025-11-11": 19
     }
   },
   {
