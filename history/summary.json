@@ -4,18 +4,19 @@
     "url": "https://datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/datola.es.ico",
     "slug": "datola",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "99.05%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "98.71%",
-    "time": 2266,
-    "timeDay": 2009,
-    "timeWeek": 2708,
-    "timeMonth": 2439,
-    "timeYear": 2189,
+    "uptimeYear": "98.74%",
+    "time": 2264,
+    "timeDay": 1985,
+    "timeWeek": 2484,
+    "timeMonth": 2405,
+    "timeYear": 2187,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-05-22": 96,
       "2026-05-13": 108,
       "2026-05-12": 94,
@@ -74,7 +75,7 @@
       "2026-02-15": 110,
       "2026-02-14": 39,
       "2026-02-13": 84,
-      "2026-02-12": 221
+      "2026-02-12": 61
     }
   },
   {
