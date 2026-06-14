@@ -6,10 +6,10 @@
     "slug": "datola",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "85.81%",
-    "uptimeWeek": "80.92%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "98.16%",
+    "uptimeDay": "85.03%",
+    "uptimeWeek": "80.81%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "98.15%",
     "time": 2268,
     "timeDay": 1663,
     "timeWeek": 1809,
@@ -80,7 +80,7 @@
       "2026-06-11": 279,
       "2026-06-13": 316,
       "2026-06-12": 114,
-      "2026-06-14": 0
+      "2026-06-14": 11
     }
   },
   {
