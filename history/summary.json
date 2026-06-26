@@ -289,16 +289,16 @@
     "url": "https://eventos.datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/eventos.datola.es.ico",
     "slug": "datolada",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.91%",
     "time": 497,
-    "timeDay": 2115,
-    "timeWeek": 929,
-    "timeMonth": 932,
+    "timeDay": 1281,
+    "timeWeek": 869,
+    "timeMonth": 917,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2025-10-20": 76,
@@ -309,7 +309,7 @@
       "2026-02-27": 50,
       "2026-03-07": 26,
       "2026-05-10": 105,
-      "2026-06-26": 0
+      "2026-06-26": 102
     }
   }
 ]
