@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/datola.es.ico",
     "slug": "datola",
     "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "93.10%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "97.26%",
+    "uptime": "99.30%",
+    "uptimeDay": "90.30%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "97.25%",
     "time": 2152,
     "timeDay": 1804,
-    "timeWeek": 2476,
+    "timeWeek": 2458,
     "timeMonth": 2740,
     "timeYear": 2136,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
       "2026-07-26": 116,
       "2026-07-28": 278,
       "2026-07-29": 194,
-      "2026-09-07": 38,
+      "2026-09-07": 78,
       "2026-09-06": 61
     }
   },
@@ -81,7 +81,7 @@
     "uptimeYear": "99.98%",
     "time": 464,
     "timeDay": 1835,
-    "timeWeek": 1501,
+    "timeWeek": 1603,
     "timeMonth": 1062,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "uptimeYear": "99.98%",
     "time": 399,
     "timeDay": 849,
-    "timeWeek": 668,
+    "timeWeek": 696,
     "timeMonth": 612,
     "timeYear": 397,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
     "uptimeYear": "99.01%",
     "time": 442,
     "timeDay": 768,
-    "timeWeek": 618,
+    "timeWeek": 616,
     "timeMonth": 468,
     "timeYear": 461,
     "dailyMinutesDown": {
@@ -212,7 +212,7 @@
     "uptimeYear": "99.87%",
     "time": 1128,
     "timeDay": 1296,
-    "timeWeek": 1196,
+    "timeWeek": 1231,
     "timeMonth": 1244,
     "timeYear": 1172,
     "dailyMinutesDown": {
@@ -236,7 +236,7 @@
     "uptimeYear": "99.94%",
     "time": 513,
     "timeDay": 706,
-    "timeWeek": 574,
+    "timeWeek": 589,
     "timeMonth": 593,
     "timeYear": 537,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
     "uptimeYear": "99.91%",
     "time": 526,
     "timeDay": 812,
-    "timeWeek": 675,
+    "timeWeek": 677,
     "timeMonth": 587,
     "timeYear": 533,
     "dailyMinutesDown": {
