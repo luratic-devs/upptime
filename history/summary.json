@@ -4,17 +4,17 @@
     "url": "https://datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/datola.es.ico",
     "slug": "datola",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.26%",
-    "time": 2154,
-    "timeDay": 2462,
-    "timeWeek": 2728,
-    "timeMonth": 2820,
-    "timeYear": 2140,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "97.24%",
+    "time": 2152,
+    "timeDay": 1774,
+    "timeWeek": 2469,
+    "timeMonth": 2746,
+    "timeYear": 2135,
     "dailyMinutesDown": {
       "2026-06-04": 91,
       "2026-06-05": 366,
@@ -65,7 +65,8 @@
       "2026-07-26": 116,
       "2026-07-28": 278,
       "2026-07-29": 194,
-      "2026-09-06": 0
+      "2026-09-07": 38,
+      "2026-09-06": 61
     }
   },
   {
@@ -106,7 +107,7 @@
     "timeDay": 659,
     "timeWeek": 642,
     "timeMonth": 604,
-    "timeYear": 395,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-09-15": 25,
       "2025-12-04": 47,
@@ -128,7 +129,7 @@
     "timeDay": 465,
     "timeWeek": 596,
     "timeMonth": 458,
-    "timeYear": 460,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2026-01-10": 25,
       "2026-01-12": 61,
