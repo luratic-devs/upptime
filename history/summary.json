@@ -4,17 +4,17 @@
     "url": "https://datola.es",
     "icon": "https://icons.duckduckgo.com/ip3/datola.es.ico",
     "slug": "datola",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "84.23%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "96.97%",
-    "time": 2152,
-    "timeDay": 2878,
-    "timeWeek": 2500,
-    "timeMonth": 2706,
-    "timeYear": 2136,
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "82.52%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "96.94%",
+    "time": 2150,
+    "timeDay": 1755,
+    "timeWeek": 2316,
+    "timeMonth": 2645,
+    "timeYear": 2135,
     "dailyMinutesDown": {
       "2026-06-05": 366,
       "2026-06-06": 84,
@@ -66,7 +66,7 @@
       "2026-07-29": 194,
       "2026-09-07": 1429,
       "2026-09-06": 61,
-      "2026-09-08": 99
+      "2026-09-08": 271
     }
   },
   {
@@ -82,7 +82,7 @@
     "uptimeYear": "99.98%",
     "time": 467,
     "timeDay": 1251,
-    "timeWeek": 1559,
+    "timeWeek": 1605,
     "timeMonth": 1126,
     "timeYear": 454,
     "dailyMinutesDown": {
@@ -105,7 +105,7 @@
     "uptimeYear": "99.98%",
     "time": 400,
     "timeDay": 739,
-    "timeWeek": 701,
+    "timeWeek": 750,
     "timeMonth": 618,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
     "uptimeYear": "99.01%",
     "time": 442,
     "timeDay": 494,
-    "timeWeek": 601,
+    "timeWeek": 606,
     "timeMonth": 452,
     "timeYear": 462,
     "dailyMinutesDown": {
@@ -213,7 +213,7 @@
     "uptimeYear": "99.87%",
     "time": 1128,
     "timeDay": 1349,
-    "timeWeek": 1244,
+    "timeWeek": 1271,
     "timeMonth": 1238,
     "timeYear": 1173,
     "dailyMinutesDown": {
@@ -237,7 +237,7 @@
     "uptimeYear": "99.94%",
     "time": 513,
     "timeDay": 640,
-    "timeWeek": 594,
+    "timeWeek": 613,
     "timeMonth": 588,
     "timeYear": 538,
     "dailyMinutesDown": {
@@ -258,7 +258,7 @@
     "uptimeYear": "99.91%",
     "time": 526,
     "timeDay": 869,
-    "timeWeek": 701,
+    "timeWeek": 703,
     "timeMonth": 570,
     "timeYear": 535,
     "dailyMinutesDown": {
